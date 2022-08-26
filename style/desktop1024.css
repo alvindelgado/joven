@@ -1,0 +1,16 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.card-1 {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.card-3 {
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0;
+}
